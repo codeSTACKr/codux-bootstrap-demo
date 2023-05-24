@@ -9,8 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@blueprintjs/core": "^4.18.0",
+    "@wixc3/bootstrap-boards": "^0.2.0",
+    "blueprint-css": "^3.0.0-beta.0",
+    "bootstrap": "^5.2.3",
     "classnames": "^2.3.2",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.7.4",
     "react-dom": "^18.2.0",
     "vite-plugin-svgr": "^3.2.0"
   },

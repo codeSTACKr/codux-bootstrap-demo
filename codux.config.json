@@ -23,5 +23,6 @@
   "styling": {
     "solution": "scss modules"
   },
-  "svgLoader": "both"
+  "svgLoader": "both",
+  "assetLibraries": ["@wixc3/bootstrap-boards"]
 }

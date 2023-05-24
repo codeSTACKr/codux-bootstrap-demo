@@ -1,0 +1,17 @@
+[  
+    {
+        "name": "Blueprint Components",
+        "components": [
+            {
+                "filePath": "@blueprintjs/core",
+                "exportName": "ProgressBar",
+                "name": "Progress Bar"
+            },
+            {
+                "filePath": "@blueprintjs/core",
+                "exportName": "Button",
+                "name": "Button"
+            }
+        ]
+    }
+] 
